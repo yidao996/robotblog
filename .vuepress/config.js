@@ -1,6 +1,6 @@
 module.exports = {
-  title: "机器人博客",
-  description: 'A simple and beautiful vuepress blog theme .',
+  title: "移动机器人项目博客",
+  description: 'A beautiful vuepress blog theme .',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
