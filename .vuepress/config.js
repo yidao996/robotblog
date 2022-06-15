@@ -1,6 +1,6 @@
 module.exports = {
   title: "移动机器人项目博客",
-  description: 'A beautiful vuepress blog theme .',
+  description: 'Mobile robot .',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -67,7 +67,7 @@ module.exports = {
     // 最后更新时间
     lastUpdated: 'Last Updated',
     // 作者
-    author: 'reco_luan',
+    author: '移动机器人四班CWJ',
     // 作者头像
     authorAvatar: '/avatar.png',
     // 备案号
